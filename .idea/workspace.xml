@@ -1,45 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b97db08-a6d2-4881-b45f-e62fab30800d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataAndArith/dataAndArith.iml" beforeDir="false" afterPath="$PROJECT_DIR$/designpattern/设计模式.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataAndArith/src/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_apache_tomcat_tomcat_api_8_5_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_apache_tomcat_tomcat_catalina_8_5_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_apache_tomcat_tomcat_coyote_8_5_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_apache_tomcat_tomcat_el_api_8_5_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_apache_tomcat_tomcat_jaspic_api_8_5_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_apache_tomcat_tomcat_jni_8_5_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_apache_tomcat_tomcat_jsp_api_8_5_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_apache_tomcat_tomcat_servlet_api_8_5_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_apache_tomcat_tomcat_util_8_5_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_apache_tomcat_tomcat_util_scan_8_5_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_mybatis_mybatis_3_5_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_springframework_spring_aop_5_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_springframework_spring_beans_5_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_springframework_spring_context_5_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_springframework_spring_core_5_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_springframework_spring_expression_5_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_springframework_spring_web_5_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/designpattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dataAndArith/数据结构与算法.iml" afterDir="false" />
+    <list default="true" id="d97967ea-1653-4e82-bf05-95c32278760d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/V4_FindMedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/V4_FindMedian.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataAndArith/dataAndArith.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dataAndArith/dataAndArith.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataAndArith/数据结构与算法.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/leetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/leetCode.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="293bmnMejnlQqNIf4gQxxBLtRan" />
+  <component name="ProjectId" id="293gzEnJw27HIjgQnXihtUhQkmZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
@@ -58,38 +28,79 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dataAndArith" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25726745" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.AbstractFactoryTest">
+    <configuration name="AbstractFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sue.designpattern.abstractfactroy.AbstractFactoryTest" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sue.designpattern.abstractfactroy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V4_FindMedian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="V4_FindMedian" />
+      <module name="leetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AbstractFactoryTest" />
+        <item itemvalue="Application.V4_FindMedian" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6b97db08-a6d2-4881-b45f-e62fab30800d" name="Default Changelist" comment="" />
-      <created>1652344879386</created>
+      <changelist id="d97967ea-1653-4e82-bf05-95c32278760d" name="Default Changelist" comment="" />
+      <created>1652347446296</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1652344879386</updated>
-      <workItem from="1652344882050" duration="17000" />
+      <updated>1652347446296</updated>
+      <workItem from="1652347448933" duration="649000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
