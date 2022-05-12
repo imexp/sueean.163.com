@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/dataAndArith/dataAndArith.iml" filepath="$PROJECT_DIR$/dataAndArith/dataAndArith.iml" />
-      <module fileurl="file://$PROJECT_DIR$/designpattern/designpattern.iml" filepath="$PROJECT_DIR$/designpattern/designpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sueean.163.com.iml" filepath="$PROJECT_DIR$/.idea/sueean.163.com.iml" />
     </modules>
   </component>
 </project>
