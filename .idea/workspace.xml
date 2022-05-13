@@ -1,25 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d97967ea-1653-4e82-bf05-95c32278760d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/V4_FindMedian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/V4_FindMedian.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="d97967ea-1653-4e82-bf05-95c32278760d" name="Default Changelist" comment="11">
+      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/V5_LongManacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/src/main/java/V5_LongManacher.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataAndArith/dataAndArith.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dataAndArith/dataAndArith.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataAndArith/数据结构与算法.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/leetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/leetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/src/main/java/V4_FindMedian.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/src/main/java/V4_FindMedian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/src/main/java/V4_FindMedian.md" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/src/main/java/V4_FindMedian.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/V4_FindMedian.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/V4_FindMedian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/V4_FindMedian.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/V4_FindMedian.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="293gzEnJw27HIjgQnXihtUhQkmZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
@@ -36,7 +45,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.25726745" />
   </component>
-  <component name="RunManager" selected="Application.AbstractFactoryTest">
+  <component name="RunManager" selected="Application.V4_FindMedian">
     <configuration name="AbstractFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sue.designpattern.abstractfactroy.AbstractFactoryTest" />
       <module name="designpattern" />
@@ -57,23 +66,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AbstractFactoryTest" />
         <item itemvalue="Application.V4_FindMedian" />
+        <item itemvalue="Application.AbstractFactoryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -86,7 +93,24 @@
       <option name="presentableId" value="Default" />
       <updated>1652347446296</updated>
       <workItem from="1652347448933" duration="649000" />
+      <workItem from="1652348120416" duration="142000" />
+      <workItem from="1652406400381" duration="2855000" />
     </task>
+    <task id="LOCAL-00001" summary="11">
+      <created>1652348172918</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652348172918</updated>
+    </task>
+    <task id="LOCAL-00002" summary="11">
+      <created>1652348215617</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652348215617</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,5 +126,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="11" />
   </component>
 </project>
